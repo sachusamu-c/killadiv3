@@ -1,7 +1,7 @@
 {
-  "name": "Jarvis",
+  "name": "Killadi",
   "version": "1.0.0",
-  "description": "AKSHAY",
+  "description": "SACHUSAMU",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -56,15 +56,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sparroo"
+    "url": "git+https://github.com/sachusamu-c"
   },
   "keywords": [
-    "jarvis"
+    "killadi"
   ],
-  "author": "AKSHAY",
+  "author": "SACHUSAMU",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sparroo"
+    "url": "https://github.com/sachusamu-c"
   },
   "homepage": "https://github.com/sparroo"
 }
