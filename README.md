@@ -14,7 +14,7 @@
 </p>
 </details>
 
-## THANKS TO SPARROW
+## THANKS TO ROCK SER
 
 # CLONE THIS PROJECT  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 
@@ -26,7 +26,7 @@
 > pkg install git
 > pkg install bash
 > git clone https://github.com/sachusamu-c/killadiv3
-> cd jarvis
+> cd killadiv3
 > bash install.sh
 > npm start
 > SCAN THE QR CODE
@@ -51,7 +51,7 @@
 # CONTACT ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`WhatsApp Number `](https://wa.me/+919744474996)
-* [`WhatsApp Group `](https://chat.whatsapp.com/GGWFogD7JtD2BZZREqHmYd)
+* [`WhatsApp Group `](https://chat.whatsapp.com/HMoBoLpK074DrdqhlOPadP)
 
 
 # THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
